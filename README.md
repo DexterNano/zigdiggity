@@ -39,7 +39,7 @@ Using a default install of Raspbian (GUI install, not headless), perform the fol
 
 * With your Raspberry Pi powered off, plug your Raspbee into your Raspberry Pi
 * Clone this repository onto your Raspberry Pi and cd into the ZigDiggity directory
-* Enable serial using the `sudo raspbi-config` command
+* Enable serial using the `sudo raspi-config` command
   * Select "Advanced Options/Serial"
   * Select *NO* to "Would you like a login shell to be accessible over serial?"
   * Select *YES* to enabling serial
